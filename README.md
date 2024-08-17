@@ -1,1 +1,1 @@
-Ecom Essentials
+Developed a feature-rich e-commerce platform using Next.js and TypeScript for a modern and scalable frontend. Integrated Tailwind CSS for a responsive and visually appealing design, and Express.js for handling backend operations. Utilized Socket.IO for real-time updates, ensuring users receive immediate notifications about product availability, order status. This setup provides a seamless and interactive shopping experience with a focus on performance and user engagement.
